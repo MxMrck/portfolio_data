@@ -23,18 +23,9 @@ The goal was to modernize reporting practices, improve readability for business 
 4.  Rebuilt the pipeline architecture with reliability as a priority
 
 ### 🧰 Stack
-·  Looker 
+·  Looker  ·  Tableau  ·  BigQuery  ·  Databricks  ·  GitHub  ·  SQL
 
-·  Tableau
-
-·  BigQuery 
-
-·  Databricks
-
-·  GitHub
-
-<img width="1372" height="1208" alt="Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 Store 1 Store 2 Store 3" src="https://github.com/user-attachments/assets/d284c2fb-89e6-4813-ba5d-8f0802079c0c" />
-
+<img width="1372" height="1208" alt="Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 (1)" src="https://github.com/user-attachments/assets/7b80eca0-75aa-44cc-8588-5e73479cc706" />
 
 
 ## Results
@@ -54,6 +45,22 @@ Business
 
 💰 6k$/month saved in computing ressource from BigQuery
 
-![01022028](https://github.com/user-attachments/assets/9d636281-a371-456a-8a68-c13224410c28)
+![01022028 (1)](https://github.com/user-attachments/assets/8fa29c30-0ff9-45ab-b082-657b57173278)
 
+## Projet 2 - 🗺️ Sales Mapping - Decathlon Canada
+
+## 🎯 Objectives
+The goal of this dashboard was to get helps stores leaders and city planners to understand where our customers were. In addition, data modelling behing this tool gave a rough estimation of market share per Foward Sortation Areas and Neighborhoods. 
+
+## Solution
+
+
+1.  Market Share modelling
+3.  Minimalist dashboards built around a two central maps
+
+<img width="2048" height="1065" alt="Store 1 - Montréal Store 2 - Quebec Store 3 - Calgary Store 4 - Toronto Store 5 - Endmonton Store 6 - Montréal S Store 7 - Laval Ouest Store 8 - Sherbrooke Store 9 - Trois-Rivière Store 10 - Ecom " src="https://github.com/user-attachments/assets/d9dc852b-2af7-4ce5-a1a0-baa20cce5f4e" />
+
+
+### 🧰 Stack
+·  Tableau ·  Databricks ·  GitHub  ·  VS Code · Python  ·  SQL  · External data provider API
 
