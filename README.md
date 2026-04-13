@@ -54,3 +54,6 @@ Business
 
 💰 6k$/month saved in computing ressource from BigQuery
 
+![01022028](https://github.com/user-attachments/assets/9d636281-a371-456a-8a68-c13224410c28)
+
+
