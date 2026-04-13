@@ -33,7 +33,8 @@ The goal was to modernize reporting practices, improve readability for business 
 
 ·  GitHub
 
-<img width="1372" height="1208" alt="Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 Store 1 Store 2 Store 3" src="https://github.com/user-attachments/assets/17d097d0-3bde-4bd9-96bd-b8b9d3cc1aad" />
+<img width="1372" height="1208" alt="Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 Store 1 Store 2 Store 3" src="https://github.com/user-attachments/assets/d284c2fb-89e6-4813-ba5d-8f0802079c0c" />
+
 
 
 ## Results
