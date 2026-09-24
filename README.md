@@ -25,8 +25,7 @@ The goal was to modernize reporting practices, improve readability for business 
 ### 🧰 Stack
 ·  Looker  ·  Tableau  ·  BigQuery  ·  Databricks  ·  GitHub  ·  SQL
 
-<img width="1372" height="1208" alt="Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 (1)" src="https://github.com/user-attachments/assets/7b80eca0-75aa-44cc-8588-5e73479cc706" />
-
+<img width="1372" height="1208" alt="Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 Store 1 Store 2 Store 3 (2)" src="https://github.com/user-attachments/assets/37979b0d-3b35-4350-89ac-ddaca99c4c75" />
 
 ## Results
 Technical
