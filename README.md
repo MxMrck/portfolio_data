@@ -45,7 +45,7 @@ Business
 
 ![01022028 (1)](https://github.com/user-attachments/assets/8fa29c30-0ff9-45ab-b082-657b57173278)
 
-## Projet 2 - 🗺️ Sales Mapping - Decathlon Canada
+## Projet 2 - 🗺️ Sales Mapping 
 
 ## 🎯 Objectives
 The goal of this dashboard was to get helps stores leaders and city planners to understand where our customers were. In addition, data modelling behing this tool gave a rough estimation of market share per Foward Sortation Areas and Neighborhoods. 
