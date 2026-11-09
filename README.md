@@ -1,9 +1,8 @@
 # Business Intelligence (BI) Analyst - Portfolio
 
-## Projet 1 - 📊 Looker to Tableau Dashboard Revamp - Decathlon Canada
-  
+## Projet 1 - 📊 Looker to Tableau Dashboard Revamp 
 ## 🎯 Objectives
-This project was a full revamp of Decathlon Canada's existing suite of Looker dashboards and BigQuery data pipelines. 
+This project was a full revamp of a Sport Retailer existing suite of Looker dashboards and BigQuery data pipelines. 
 The goal was to modernize reporting practices, improve readability for business users, and reducing maintenance needs from the data science team.
 
 ## Solutions 
